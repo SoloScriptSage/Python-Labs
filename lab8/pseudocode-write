@@ -1,0 +1,31 @@
+// Declare an integer variable to hold the number of golfers
+Declare Integer golfers
+
+// Prompt the user for the number of golfers
+Display "How many golfers will be entered: "
+Input golfers
+
+// Open the 'golf.txt' file for writing
+Open 'golf.txt' in write mode as outfile
+
+// Write the header line to the file
+Write "Golfer's name\t|\tScore" to outfile
+
+// Loop through each golfer
+For i = 1 To golfers
+    // Prompt the user for the golfer's name and score
+    Declare String name, score
+    Display i + ". Golfer's name: "
+    Input name
+    Display i + ". Golf score: "
+    Input score
+
+    // Write the golfer's information to the file
+    Write i + ". " + name + "\t\t" + score + newline to outfile
+End For
+
+// Close the file
+Close outfile
+
+// Display "Done!" to indicate successful completion
+Display "Done!"
