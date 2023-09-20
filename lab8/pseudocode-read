@@ -1,0 +1,57 @@
+// Declare a string to hold the filename
+Declare String name_file = "golf.txt"
+
+// Function to read the golf data from the file
+Function read_info(filename)
+    // Declare a list to hold the golf data
+    Declare List golf = []
+
+    // Open the file for reading
+    Open filename as infile
+
+    // Read and store the header line
+    Declare String TITLE = Read a line from infile and strip the newline character
+
+    // Read each line in the file and extract name and score data
+    For line in infile
+        Declare String index, data, name, score
+        Set index, data = Split line by ". "
+        Set name, score = Split data by "\t\t"
+        Append (name.strip(), score.strip()) to golf
+    End For
+
+    // Close the file
+    Close infile
+
+    // Return the TITLE and golf data
+    Return TITLE, golf
+End Function
+
+// Initialize variables
+Declare String TITLE
+Declare Real golf[]
+
+// Try to read golf data from the file and handle potential errors
+Try
+    Set TITLE, golf = Call read_info(name_file)
+
+    // Display the title
+    Display TITLE
+
+    // Check if there is golf data to display
+    If Length of golf > 0 Then
+        // Loop through the golf data and display each golfer's information
+        For i = 1 To Length of golf
+            Declare String name, score
+            Set name, score = Get the i-th element from golf
+            Display i + ". " + name + "\t\t" + score
+        End For
+    Else
+        Display "No data found in the file."
+    End If
+Catch FileNotFoundError
+    Display "The 'golf.txt' file does not exist."
+Catch Exception as e
+    Display "An error occurred: " + e
+End Try
+
