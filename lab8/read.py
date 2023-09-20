@@ -16,17 +16,13 @@ name_file = 'golf.txt'
 try:
     TITLE, golf = read_info(name_file)
 
-    print(f"Title: {TITLE}")
+    print(f"{TITLE}")
     if len(golf) > 0:
-        print("Golfer's name\t|\tScore")
-        print("===============================")
         for i, (name, score) in enumerate(golf, start=1):
-            print(f"{i}. {name}\t|\t{score}")
+            print(f"{i}. {name} \t\t {score}")
     else:
         print("No data found in the file.")
 except FileNotFoundError:
     print("The 'golf.txt' file does not exist.")
 except Exception as e:
     print(f"An error occurred: {e}")
-
-print("Done!")
