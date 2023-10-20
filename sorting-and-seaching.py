@@ -1,5 +1,3 @@
-
-
 def showmenu():
     print("1. Selection-sort") # searching for lowest and swapping lowest index with num we found
     print("2. Insertion-sort")
@@ -78,8 +76,29 @@ def merge_sort(values, begin, end):
 
         merge(values, begin, mid, end)
 
-def quick_sort():
-    print("metge")
+def quick_sort(values, begin, end):
+   if begin >= end:
+       return
+
+   pivot_index = (begin + end) // 2
+   pivot = values[pivot_index]
+
+   left = begin
+   right = end
+
+   while left<right:
+       while values[left] < pivot and left < right:
+           left += 1
+
+       while values[right] > pivot and right > left:
+           right -= 1
+
+       (values[left], values[right]) = (values[right], values[left])
+
+   print(values)
+   quick_sort(values, begin, left)
+   quick_sort(values, right+1, end)
+
 def bubble_sort():
     print("metge")
 
@@ -96,9 +115,7 @@ def main():
             case "3":
                 merge_sort()
             case "4":
-                quick_sort()
-            case "5":
-                bubble_sort()
+                quick_sort(values, 0, len(values)-1)
             case "6":
                 exit()
             case _:
