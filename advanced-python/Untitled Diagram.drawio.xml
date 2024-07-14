@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-07-14T23:41:12.482Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="q0mWCJe7x7s-ObvAQL1Q" version="24.6.5" type="google">
+  <diagram name="Page-1" id="-HyCVWOlKDnMqlHmndav">
+    <mxGraphModel dx="1395" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-1" value="Вітання для гостів" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="43" y="50" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-2" target="gcqeUFiXEcQClQmqDFCE-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-2" value="Меню" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-3" target="gcqeUFiXEcQClQmqDFCE-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-3" value="Замовлення" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="173" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-4" target="gcqeUFiXEcQClQmqDFCE-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-4" value="Лист страв:&lt;br&gt;- Борщ&lt;br&gt;- Котлета по-київськи&lt;br&gt;- Картопляне пюре&lt;br&gt;- Сметанковий соус&lt;br&gt;&lt;br&gt;Детальніше про страви:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="43" y="180" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-6" value="Деталі страви з фото і описом" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="43" y="526" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-10" target="gcqeUFiXEcQClQmqDFCE-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-10" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="586" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-12" target="gcqeUFiXEcQClQmqDFCE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="340" />
+              <mxPoint x="183" y="340" />
+              <mxPoint x="183" y="490" />
+              <mxPoint x="133" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-12" value="Борщ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-13" value="Котлета по-київськи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-14" value="Картопляне пюре" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="395" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-15" value="Сметанковий соус" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="425" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-19" target="gcqeUFiXEcQClQmqDFCE-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-19" value="Введіть ваше ім&#39;я та прізвище:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="173" y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-22" target="gcqeUFiXEcQClQmqDFCE-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-22" value="Лист страв на замовлення:&lt;br&gt;- Борщ&lt;br&gt;- Котлета по-київськи&lt;br&gt;- Картопляне пюре&lt;br&gt;- Сметанковий соус&lt;br&gt;&lt;br&gt;Детальніше про страви:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="273" y="270" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-24" target="gcqeUFiXEcQClQmqDFCE-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-24" value="Борщ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="450" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-25" value="Котлета по-київськи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="480" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-26" value="Картопляне пюре" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="513" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-27" value="Сметанковий соус" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="543" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-28" target="gcqeUFiXEcQClQmqDFCE-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="638" y="550" />
+              <mxPoint x="753" y="550" />
+              <mxPoint x="753" y="250" />
+              <mxPoint x="453" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-28" value="Кошик" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="608" y="395" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-30" value="Додано у кошик: &quot;Борщ&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="553" y="345" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-30" target="gcqeUFiXEcQClQmqDFCE-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-38" value="Наступна сторінка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="574" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-39" target="gcqeUFiXEcQClQmqDFCE-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-39" value="Відправити замовлення" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="605" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-40" target="gcqeUFiXEcQClQmqDFCE-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-40" target="gcqeUFiXEcQClQmqDFCE-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-40" value="Замовлення було відправлено нашим кухарям. Дякуємо за замовлення!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="273" y="650" width="240" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-42" target="gcqeUFiXEcQClQmqDFCE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="783" y="750" />
+              <mxPoint x="783" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-42" value="На головну сторінку" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="273" y="740" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-45" target="gcqeUFiXEcQClQmqDFCE-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-45" value="Назад" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="43" y="453" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gcqeUFiXEcQClQmqDFCE-48" target="gcqeUFiXEcQClQmqDFCE-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-48" value="Відправлення замовлення на власника ресторану" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="43" y="717" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gcqeUFiXEcQClQmqDFCE-51" value="Нове замовлення від: Івана Іванова Івановича&lt;br&gt;Перелік страв:&lt;br&gt;- Борщ зі сметаною&lt;br&gt;- Котлета по-київськи&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Сметанковий соус&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="43" y="820" width="317" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
